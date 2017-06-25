@@ -1,0 +1,3 @@
+Here's a dashboard .. tell me what works and what doesn't work and where you would improve it.
+good: dash_good.png
+bad: dash_bad.png
